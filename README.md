@@ -3,9 +3,12 @@ list of lecture / reading materials of toc discovered
 
 ### Turing Machine
 
-[Designing a Turing Machine (Stanford)](https://web.stanford.edu/class/cs208e/cgi-bin/main.cgi/static/lectures/11-TuringMachines/TuringMachines.pdf)
+[Designing a Turing Machine (Stanford)](https://web.stanford.edu/class/cs208e/cgi-bin/main.cgi/static/lectures/11-TuringMachines/TuringMachines.pdf)  
+[Modifications of Turing Machines](https://www.geeksforgeeks.org/theory-of-computation/modifications-to-standard-turing-machine/)
 
 ### Decidability 
-[Recognizable, Decidable, Halting Problem detailed](https://ai.dmi.unibas.ch/_files/teaching/fs22/theo/slides/theory-c02-handout4.pdf)  
-[Recognizable vs Decidable Languages worksheet](https://web.stanford.edu/class/archive/cs/cs103ace/cs103ace.1244/materials/week9solutions.pdf)  
-[Decidability Theorems, An Outline](https://courses.cs.washington.edu/courses/cse431/14sp/scribes/lec4.pdf)  
+[Recognizable, Decidable, Halting Problem detailed (U of Basel)](https://ai.dmi.unibas.ch/_files/teaching/fs22/theo/slides/theory-c02-handout4.pdf)  
+[Recognizable vs Decidable Languages worksheet (Stf)](https://web.stanford.edu/class/archive/cs/cs103ace/cs103ace.1244/materials/week9solutions.pdf)  
+[Decidability Theorems, An Outline (U W)](https://courses.cs.washington.edu/courses/cse431/14sp/scribes/lec4.pdf)  
+[Decider Closure Properties (Illinois](https://courses.grainger.illinois.edu/cs373/fa2013/Lectures/lec26.pdf)  
+[Decidable Languages (UIC)](https://www.cs.uic.edu/~ajayk/c301/CS301-UIC/Lecture-18-decidable.pdf)
