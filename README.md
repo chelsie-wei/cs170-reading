@@ -12,3 +12,4 @@ list of lecture / reading materials of toc discovered
 [Decidability Theorems, An Outline (U W)](https://courses.cs.washington.edu/courses/cse431/14sp/scribes/lec4.pdf)  
 [Decider Closure Properties (Illinois](https://courses.grainger.illinois.edu/cs373/fa2013/Lectures/lec26.pdf)  
 [Decidable Languages (UIC)](https://www.cs.uic.edu/~ajayk/c301/CS301-UIC/Lecture-18-decidable.pdf)
+[Decidability (made by Rob van Glabbeek)](http://kilby.stanford.edu/~rvg/154/handouts/decidability.html)
