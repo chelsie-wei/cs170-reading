@@ -16,4 +16,5 @@ list of lecture / reading materials of toc discovered
 
 ### Reduction  
 [Reductions handout (Illinois)](https://courses.grainger.illinois.edu/cs373/fa2013/Lectures/lec23.pdf)  
-[Reductions (further)(Illinois)](https://courses.grainger.illinois.edu/cs474/fa2021/reductions.pdf)
+[Reductions (further)(Illinois)](https://courses.grainger.illinois.edu/cs474/fa2021/reductions.pdf)  
+[Mapping Reductions Powerpoint (Stanford)](https://web.stanford.edu/class/archive/cs/cs103/cs103.1134/lectures/22/Small22.pdf)
