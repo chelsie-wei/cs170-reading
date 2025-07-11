@@ -15,4 +15,5 @@ list of lecture / reading materials of toc discovered
 [Decidability (made by Rob van Glabbeek)](http://kilby.stanford.edu/~rvg/154/handouts/decidability.html)  
 
 ### Reduction  
-[Reductions handout (Illinois)](https://courses.grainger.illinois.edu/cs373/fa2013/Lectures/lec23.pdf)
+[Reductions handout (Illinois)](https://courses.grainger.illinois.edu/cs373/fa2013/Lectures/lec23.pdf)  
+[Reductions (further)(Illinois)](https://courses.grainger.illinois.edu/cs474/fa2021/reductions.pdf)
