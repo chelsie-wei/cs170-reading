@@ -13,6 +13,7 @@ list of lecture / reading materials of toc discovered
 [Decider Closure Properties (Illinois](https://courses.grainger.illinois.edu/cs373/fa2013/Lectures/lec26.pdf)  
 [Decidable Languages (UIC)](https://www.cs.uic.edu/~ajayk/c301/CS301-UIC/Lecture-18-decidable.pdf)  
 [Decidability (made by Rob van Glabbeek)](http://kilby.stanford.edu/~rvg/154/handouts/decidability.html)  
+[Rice's Theorem (illinois)](https://courses.grainger.illinois.edu/cs373/fa2013/Lectures/lec25.pdf)
 
 ### Reduction  
 [Reductions handout (Illinois)](https://courses.grainger.illinois.edu/cs373/fa2013/Lectures/lec23.pdf)  
